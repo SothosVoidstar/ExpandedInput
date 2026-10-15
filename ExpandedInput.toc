@@ -1,0 +1,11 @@
+## Interface: 120105
+## Title: Expanded Input
+## Notes: Shows a word-wrapped, growing copy of your chat input so you can re-read long emotes and posts.
+## Author: SothosVoidstar
+## Version: @project-version@
+## Category: Chat
+## SavedVariables: ExpandedInputDB
+## X-Curse-Project-ID: 1747194
+
+Core.lua
+Options.lua

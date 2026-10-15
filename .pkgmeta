@@ -1,0 +1,9 @@
+# Settings for the BigWigs packager.
+# The repository holds the addon's files directly; this makes sure the
+# zip contains them inside a folder called "ExpandedInput".
+package-as: ExpandedInput
+
+# Files that belong in the repository but not in the addon zip.
+ignore:
+  - .github
+  - .gitignore
